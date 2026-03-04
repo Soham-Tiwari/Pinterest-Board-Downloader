@@ -53,5 +53,6 @@ def download_pinterest_board(board_url, output_folder="pinterest_downloads"):
         # (To stop the script, just close the browser window when you are satisfied)
 
 # --- RUN ---
-TARGET_BOARD = " https://uk.pinterest.com/etoilez/fits/ " 
+TARGET_BOARD = " INSERT BOARD LINK HERE" 
+
 download_pinterest_board(TARGET_BOARD)
