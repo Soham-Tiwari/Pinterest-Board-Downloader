@@ -1,4 +1,3 @@
-```markdown
 # Pinterest-Board-Downloader
 
 A robust, free, and local-first Pinterest Board Downloader built with Python and Playwright. This tool automates the process of scrolling through any public Pinterest board and downloading every single image in its original, high-resolution format directly to your computer.
@@ -80,7 +79,5 @@ This tool is intended for personal use and educational purposes only. Please res
 3. **The Trigger**: Pressed Enter in the terminal to let the script take control of the browser window
 4. **Automated Scraping**: Let the script cycle through the page (Scroll → Wait → Grab → Upgrade URL → Download)
 5. **Error Handling**: When encountering "Execution context" or "Timeout" errors, we adjusted wait times and removed forced refreshes to maintain connection stability
-6. **Completion**: Watched the terminal count up unique images and download them one by one—the program runs iteratively until complete
-```
+6. **Completion**: Watched the terminal count up unique images and download them one by one—the program runs iteratively until complete.
 
-This format is ready to copy and paste directly into your GitHub repository's README.md file. It maintains all your original content while organizing it in a clean, professional structure with proper markdown formatting.
